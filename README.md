@@ -1,5 +1,3 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
-
 # Google Clone
 
 > I made this google clone for the Odin project with HTML and CSS
