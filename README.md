@@ -2,11 +2,10 @@
 
 # Google Clone
 
-> One paragraph statement about the project.
+> I made this google clone for the Odin project with HTML and CSS
 
 ![screenshot](./app_screenshot.png)
 
-Additional description about the project and its features.
 
 ## Built With
 
